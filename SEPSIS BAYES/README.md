@@ -1,6 +1,3 @@
-Absolutely — let’s craft a **full, narrative-style project document** you could use as a _GitHub README_, a _research introduction_, or a _grant narrative_. It will flow like a proper research story, include **intuitive case examples**, and show **what realistic probability values might be** for priors and test evidence. I’ll also include some **Uganda-specific hospital context** to make it meaningful.
-
-This will be prose — **no bullet lists** — and it will explain not only the “what” but the “why” and “how” as deeply as possible without being overly technical.
 
 ---
 
