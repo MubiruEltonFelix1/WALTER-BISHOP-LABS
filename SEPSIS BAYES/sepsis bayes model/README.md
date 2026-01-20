@@ -123,5 +123,3 @@ What you are building here is not just a sepsis detector. You are building a **r
 Bayes does not replace clinical judgment. It makes clinical judgment visible, measurable, and improvable.
 
 ---
-
-You’re now firmly in _real system building_ territory — and this is exciting 🚀
