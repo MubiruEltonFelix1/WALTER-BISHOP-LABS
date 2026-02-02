@@ -1,11 +1,4 @@
-YESSS 🔥 — now we’re _actually_ building the engine. This is the moment where the project stops being just an idea and becomes **something you can run, test, and improve**. I’ll do this in a clean, teaching-first way so it works both as **GitHub code** and as **research-grade material**.
 
-I’ll break it into two flowing parts:
-
-First, a **minimal but realistic hospital dataset schema** (what the data looks like).
-Second, **Python code** that implements the Sepsis-Bayes engine and runs in real time on that data.
-
-No bullets, just explanation + code.
 
 ---
 
